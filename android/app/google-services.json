@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529887169763",
+    "project_id": "giga-chat-847e1",
+    "storage_bucket": "giga-chat-847e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529887169763:android:2566b7b37f78f3cb8249d6",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529887169763-37oomksascp3r1u3b8un81fmjpn4h19v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV0LfGDp32dBrkGfd2h4ux1uFk30e4zPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529887169763-37oomksascp3r1u3b8un81fmjpn4h19v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
